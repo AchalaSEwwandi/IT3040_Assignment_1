@@ -5,6 +5,11 @@ Automated Testing for Singlish to Sinhala Transliteration System
 
 ---
 
+## Repository
+https://github.com/AchalaSEwwandi/IT3040_Assignment_1.git
+
+---
+
 ## Student Information
 - **Student ID:** IT23553514
 - **Name:** Sewwandi H.K.A
@@ -17,9 +22,9 @@ Automated Testing for Singlish to Sinhala Transliteration System
 
 ```
 test_automation/
-- test_automation.py        → Playwright automation script
+- test_automation.py                  → Playwright automation script
 - Assignment 1 - Test cases (3).xlsx  → Excel file with test cases & results
-- README.md                 → Project documentation
+- README.md                           → Project documentation
 ```
 
 ---
